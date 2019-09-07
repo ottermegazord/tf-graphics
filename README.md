@@ -1,2 +1,2 @@
 # tf-graphics
-Quick demo on TF Graphics API
+Fun with TF Graphics API!
